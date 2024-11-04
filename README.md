@@ -4,8 +4,6 @@
 
 ### I am a dedicated and detail-oriented Frontend Developer with about one year of hands-on experience, I am eager to contribute to innovative projects and enhance my skills. My goal is to use my expertise in JavaScript, React, and TypeScript to help the company grow, continuously improve my technical abilities, and contribute to team success.
 
-## 📰 [My CV](https://doosterhere.github.io/resume)
-
 ## 🌐 My Contacts:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mikasch)
